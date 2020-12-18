@@ -9,3 +9,4 @@ jdk::
   
 script:
   -mvn clean install verify
+  

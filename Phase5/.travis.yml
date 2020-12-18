@@ -1,0 +1,11 @@
+#Virtual Machine Configuration
+os: Windows
+
+#Project JDK
+
+languague: java
+jdk::
+  -openjdk11
+  
+script:
+  -mvn clean install verify

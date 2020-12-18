@@ -1,5 +1,6 @@
 #Virtual Machine Configuration
-os: Windows
+os: linux
+dist: xenial
 
 #Project JDK
 
